@@ -8,5 +8,5 @@ Cada diretório de exercício contém um arquivo README.md com instruções espe
 
 ## Exercícios
 - [Exercício 1](./retangulo): Descrição do exercício 1.
-- [Exercício 2](./exercicio2): Descrição do exercício 2.
-- [Exercício 3](./exercicio3): Descrição do exercício 3.
+- [Exercício 2](./funcionario): Descrição do exercício 2.
+- [Exercício 3](./aprovadoOuNao): Descrição do exercício 3.
